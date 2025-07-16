@@ -112,10 +112,12 @@ Soy un apasionado desarrollador y arquitecto de software con más de **14 años 
 
 ### 🌱 Actualmente Interesado en
 
-- Optimización y modernización de arquitecturas legacy.
-- Tokenización y blockchain aplicada a productos reales.
-- Soluciones fintech y democratización del acceso tecnológico.
-- Sostenibilidad y eficiencia tecnológica.
+- Mejorar y transformar sistemas complejos en soluciones simples, robustas y escalables.
+- Aplicar tecnologías emergentes para resolver desafíos concretos, generando valor real.
+- Desarrollar productos digitales útiles y ágiles, especialmente en áreas fintech y automatización.
+- Impulsar equipos y procesos hacia mayor eficiencia y calidad, con foco en la experiencia del usuario.
+- Explorar nuevas herramientas y tendencias tech que realmente aporten al negocio.
+- Contribuir en ambientes donde el aprendizaje continuo y la colaboración sean clave.
 
 ---
 
